@@ -6,7 +6,7 @@ Je n'ai pas réussi à lancer l'objet C++ :
 ![Image text](images/Erreur_header_Python_h_not_found_Ubuntu.png)
 
 Cet exercice sera fait en salle à Dauphine sur les machines du CRIO.
-
+```
 Exemple d'utilisation d'un composant en python
 Utilise pybind11
 apres git clone, faire:
