@@ -1,9 +1,9 @@
 # python_cpp
 Je n'ai pas réussi à lancer l'objet C++ :
 * Sur Mac j'obtiens une erreur (compatibilité avec la nouvelle puce Apple M1 apparemment)
-![Image text](images/Erreur Mac puce Apple M1.png)
+![Image text](images/Erreur_Mac_puce_Apple_M1.png)
 * Sur Ubuntu j'obtiens une erreur file Python.h not found. J'ai cherché sur internet toutes les solutions mais aucune ne fonctionne
-![Image text](Erreur header Python h not found Ubuntu.png)
+![Image text](Erreur_header_Python_h_not_found_Ubuntu.png)
 
 Cet exercice sera fait en salle à Dauphine sur les machines du CRIO.
 
