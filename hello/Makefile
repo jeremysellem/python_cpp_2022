@@ -1,5 +1,5 @@
-CPPFLAGS += -I /usr/local/Cellar/python@3.7/3.7.12_1/Frameworks/Python.framework/Versions/3.7/include/python3.7m -std=c++17
-LIBS=/usr/local/Cellar/python@3.7/3.7.12_1/Frameworks/Python.framework/Versions/3.7/lib/libpython3.7m.dylib
+CPPFLAGS += -I /usr/include/python3.9
+LIBS=-lpython3.9
 
 COMPOSANT = hello_component
 
