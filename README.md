@@ -32,3 +32,5 @@ python3
 '1.0'
 >>> 
 ```
+
+* Google Cloud token : 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
